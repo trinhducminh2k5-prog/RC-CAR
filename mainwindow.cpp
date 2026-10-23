@@ -31,9 +31,9 @@ MainWindow::MainWindow(QWidget *parent) : QMainWindow(parent) {
     leftLayout->addSpacing(25);
 
     QString studentStyle = "font-size: 18px; font-weight: bold; color: #00e6e6;";
-    QLabel *sv1 = new QLabel("Trần Đức Hiếu_20236167");
-    QLabel *sv2 = new QLabel("Trần Đắc Công Trường_20236349");
-    QLabel *sv3 = new QLabel("Nguyễn Quang Vinh_20236369");
+    QLabel *sv1 = new QLabel("Trịnh Đức Minh_20237162");
+    QLabel *sv2 = new QLabel("Vũ Ngọc Sáng_20237173");
+    QLabel *sv3 = new QLabel("Nguyễn Chí Tường_20237182");
 
     sv1->setStyleSheet(studentStyle); sv1->setAlignment(Qt::AlignCenter);
     sv2->setStyleSheet(studentStyle); sv2->setAlignment(Qt::AlignCenter);
